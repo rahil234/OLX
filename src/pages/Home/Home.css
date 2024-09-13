@@ -1,0 +1,19 @@
+.catagories-div {
+  color: #002f34;
+  fill: #002f34;
+  box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.2);
+}
+
+.catogory-items {
+  display: flex;
+  align-items: center;
+}
+
+.catogory-items a {
+  margin: 8px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.catogory-items a:hover {
+  color: #00a49f;
+}

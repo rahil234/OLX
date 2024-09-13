@@ -1,0 +1,45 @@
+.post-page{
+    color: #012F34;
+}
+
+.post-section{
+    width: 66.66667%;
+    margin: 30px auto;
+    margin-top: 13px;
+}
+
+.post-section input[type="text"],
+.post-section textarea{
+    padding: 10px;
+    border: 1px solid;
+    resize: none;
+    outline: none;
+    width: 66.66667%;
+}
+
+.option{
+    padding: 30px;
+    max-width: 66.66667%;
+}
+
+.option > *{
+    margin-top: 10px;
+}
+
+
+.option h2{
+    font-weight: bold;
+    font-size: 20px;
+}
+.option label{
+    /* color: #00A49F; */
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.select{
+    outline: none;
+    border: 1px solid #617A7E;
+    width: 58.333%;
+    height: 48px;
+}
